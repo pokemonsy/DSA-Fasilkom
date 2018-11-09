@@ -1,2 +1,1 @@
-# DSA-Fasilkom
-DSA Fasilkom Lab
+# Lab01
